@@ -91,7 +91,7 @@ app.get('/', (req, res) => {
 
         <div class="footer">
           <p><strong>Environment:</strong> Development</p>
-          <p><strong>Version:</strong> v1</p>
+          <p><strong>Version:</strong> v2</p>
           <p><strong>Platform:</strong> Kustomize + ArgoCD</p>
         </div>
 
