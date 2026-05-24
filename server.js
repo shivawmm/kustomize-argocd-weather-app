@@ -37,7 +37,7 @@ app.get('/', (req, res) => {
   const html = `
     <html>
       <head>
-        <title>Kustomize + ArgoCD Demo</title>
+        <title>Kustomize + ArgoCD Demo v2</title>
 
         <style>
           body {
